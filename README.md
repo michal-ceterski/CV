@@ -5,4 +5,5 @@ Version of 21/09/2024 deployed on Netlify: (https://michael-ceterski-cv.netlify.
 
 TO DO LIST:
 - English version,
-- Language switch.
+- Language switch,
+- Links should open in new tab, not in the same one.
