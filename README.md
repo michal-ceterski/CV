@@ -4,6 +4,6 @@ Will be updated when new info/version available.
 Version of 08/11/2024 deployed on Netlify: https://michal-ceterski-cv.netlify.app/
 
 TO DO LIST:
-- Make changes to the career section in November and publish new deployment,
+- Publish new deployment (December 2024),
 - Switch for language versions (addition of JavaScript?),
 - Links should open in new tab, not in the same one.
